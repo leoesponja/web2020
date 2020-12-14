@@ -1,0 +1,37 @@
+   <nav class="navbar navbar-light bag-warning"></nav>
+  <div class="container">
+    <a class="navbar-brand" href="index.html">Mi proyecto de vida</a>
+  </div>
+  </nav>
+  <div class="container">
+
+    <div class="row">
+
+      <!-- Menu -->
+      <div class="col-3">
+        <ul class="nav flex-column bg-light">
+          <li class="nav-item"><a class="nav-link" href="index.html">inicio</a></li>
+          <li class="nav-item"><a class="nav-link" href="quien-soy.html">¿Quien soy?</a></li>
+          <li class="nav-item"><a class="nav-link" href="5-feliz.html">5 Cosas que me hacen Feliz</a></li>
+          <li class="nav-item"><a class="nav-link" href="5-enojar.html">5 Cosas que me hacen enojar</a></li>
+          <li class="nav-item"><a class="nav-link" href="unico.html">Cosas que me hacen Unico</a></li>
+          <li class="nav-item"><a class="nav-link" href="test-personalidad.html">Test de Personalidad</a></li>
+          <li class="nav-item"><a class="nav-link" href="test-inteligencia.html">Test de inteligencia</a></li>
+          <li class="nav-item"><a class="nav-link" href="decidi-curso.html">¿Por qué decidí hacer el curso?</a></li>
+          <li class="nav-item"><a class="nav-link" href="frases.html">Frases</a></li>
+          <li class="nav-item"><a class="nav-link" href="metas.html">Metas</a></li>
+        </ul>
+      </div>
+
+      <!--Contenido-->
+      
+      <div class="col-5">
+        
+        <p class="display-4"> 
+
+      <!--imagen-->
+      <div class="col-4">
+       
+      </div>
+    </div>
+  </div>
